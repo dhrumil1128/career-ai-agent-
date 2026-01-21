@@ -1,0 +1,18 @@
+# --- Core UI ---
+gradio>=4.0.0
+
+# --- Gemini (NEW SDK, not deprecated) ---
+google-genai>=0.3.0
+
+# --- Resume parsing ---
+pdfplumber>=0.11.0
+pymupdf>=1.23.0
+
+# --- Job search & HTTP ---
+requests>=2.31.0
+
+# --- Voice output ---
+gTTS>=2.5.0
+
+# --- Utilities ---
+python-dotenv>=1.0.1

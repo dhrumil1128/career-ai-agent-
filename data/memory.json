@@ -1,0 +1,134 @@
+{
+  "default": {
+    "history": [
+      {
+        "time": "2026-01-20T14:49:23.949771",
+        "user": "Hello "
+      },
+      {
+        "time": "2026-01-20T14:54:09.134105",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T14:56:26.803946",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T14:56:42.055384",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T14:57:36.549000",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T15:18:34.723179",
+        "user": "Give interview questions for backend engineer\n"
+      },
+      {
+        "time": "2026-01-20T15:19:39.876987",
+        "user": "Give interview questions for backend engineer\n"
+      },
+      {
+        "time": "2026-01-20T15:37:15.642995",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T15:46:04.444732",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T15:46:35.717573",
+        "user": "what is the capital of india ?"
+      },
+      {
+        "time": "2026-01-20T15:46:48.629935",
+        "user": "give interview questions for backend engineer\n"
+      },
+      {
+        "time": "2026-01-20T15:47:10.365146",
+        "user": "backend developer internship jobs\n"
+      },
+      {
+        "time": "2026-01-20T15:53:00.840055",
+        "user": "Hello "
+      },
+      {
+        "time": "2026-01-20T15:53:19.681222",
+        "user": "give interview questions for backend engineer\n"
+      },
+      {
+        "time": "2026-01-20T17:16:36.879893",
+        "user": "give interview questions for backend engineer"
+      },
+      {
+        "time": "2026-01-20T17:17:04.767340",
+        "user": ""
+      },
+      {
+        "time": "2026-01-20T17:19:10.489241",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T17:20:21.234429",
+        "user": "tell me about Fast API "
+      },
+      {
+        "time": "2026-01-20T17:20:48.400694",
+        "user": "give me the interview question for backend Engineer . "
+      },
+      {
+        "time": "2026-01-20T17:22:23.968051",
+        "user": "based on my resume give me relavant jobs "
+      },
+      {
+        "time": "2026-01-20T17:23:00.774035",
+        "user": "give me the jobs for backend engineer in india ]"
+      },
+      {
+        "time": "2026-01-20T17:23:20.003375",
+        "user": "give me the internship also "
+      },
+      {
+        "time": "2026-01-20T19:34:31.042892",
+        "user": "what is the capital of india ?"
+      },
+      {
+        "time": "2026-01-20T19:34:45.162468",
+        "user": "hello "
+      },
+      {
+        "time": "2026-01-20T19:34:51.588116",
+        "user": "good evening "
+      },
+      {
+        "time": "2026-01-20T19:40:47.940825",
+        "user": "I want to prepare a STAR interview answer\n"
+      },
+      {
+        "time": "2026-01-20T19:41:06.997932",
+        "user": "During my internship, I worked on a project where we had to analyze water consumption data.\nInitially, the data was very messy and there were missing values and anomalies.\nI used Python and pandas to clean the data and then applied K-Means clustering.\nAt first, the results were not accurate, so I changed the feature engineering approach.\nIn the end, the model helped classify consumption patterns better and the company could detect abnormal usage.\n"
+      },
+      {
+        "time": "2026-01-20T19:50:16.760321",
+        "user": "I want to prepare a STAR interview answer\n"
+      },
+      {
+        "time": "2026-01-20T19:50:30.176500",
+        "user": "During my internship, I worked on a project where we had to analyze water consumption data.\nInitially, the data was very messy and there were missing values and anomalies.\nI used Python and pandas to clean the data and then applied K-Means clustering.\nAt first, the results were not accurate, so I changed the feature engineering approach.\nIn the end, the model helped classify consumption patterns better and the company could detect abnormal usage.\n"
+      },
+      {
+        "time": "2026-01-20T20:32:14.225567",
+        "user": ""
+      },
+      {
+        "time": "2026-01-20T21:07:05.103173",
+        "user": ""
+      }
+    ],
+    "last_response": "I'm focused on career and technical guidance.\nPlease ask something related to jobs, resumes, or interviews.",
+    "resume_text": "Dhrumil Pawar\nVadodara, Gujarat, India | dhrumilpawar2910@gmail.com | +91-9904191054 | GitHub | LinkedIn\nEDUCATION\nITM (SLS) Baroda University Vadodara, India\nB. Tech in Computer Science Engineering Aug 2021- April 2025\n\uf0b7 CGPA: 8.07\nWORK EXPERIENCE\nMaxlink IT Solutions (Remote) | Vadodara, India\nPython Intern | Dec 2023 \u2013 March 2024\n\uf0b7 Built an automated WaterClassify algorithm to categorize real-time water consumption using K-Means\nclustering and engineered statistical features.\n\uf0b7 Conducted minute-level resampling, data cleaning, and anomaly handling, improving data integrity for ML\nclassification.\n\uf0b7 Designed event-level features (duration, flow rate, volume), enabling accurate consumption pattern analysis.\n\uf0b7 Produced category-wise summary analytics for stakeholders to track high-usage events and abnormal patterns.\n\uf0b7 Utilized Python, Pandas, NumPy, Scikit-learn, Matplotlib to develop the end-to-end data pipeline.\nPROJECTS\nTravel Planner AI Agent\nMajor Project\n\uf0b7 Technologies: Python, Streamlit, LangGraph, Gemini Pro API, REST APIs (Unsplash, Travel Advisor)\n\uf0b7 Features: Constructed an AI travel planner employing Gemini Pro and LangGraph to generate personalized, multi-\nstep itineraries with external API suggestions, achieving a 90% user satisfaction rating based on user feedback.\n\uf0b7 Impact: Delivers smart, user-friendly trip planning using AI agent workflows and prompt engineering.\n\uf0b7 Click Here : GitHub Repo | Live Demo\nEnd-to-End File QA Chatbot (RAG)\nMajor Project\n\uf0b7 Technologies: Python, Streamlit, LangChain, Google Gemini 2.5 Flash, ChromaDB, PyMuPDF\n\uf0b7 Features: Built a production-ready QA chatbot using Retrieval-Augmented Generation (RAG), allowing users\nto upload PDFs and ask natural language questions with real-time source citations.\n\uf0b7 Impact: Showcased deep understanding of LLMs, embeddings, vector search, and prompt engineering, solving\na real-world problem in document intelligence and knowledge management.\n\uf0b7 Click Here : GitHub Repo | Demo Video\nSKILLS\n\uf0b7 Programming Languages: Python3, SQL\n\uf0b7 Data Engineering: ETL/ELT Pipelines, Data Cleaning, Feature Engineering, Data Validation, Time-Series\nResampling, Orchestration (n8n)\n\uf0b7 Data Science & ML: Pandas, Scikit-learn, NLP, Data Visualization(Power BI), AWS\n\uf0b7 Data Modeling Concepts: Data Warehouse basics, Data Lakes, Lakehouse Concepts (Delta)\n\uf0b7 Core CS Concepts: Operating Systems, Networking, Data Structures, Algorithms, UML\n\uf0b7 SCM & DevOps Tools: Git (Github), Docker\n\uf0b7 Soft Skills: Leadership, Quick Learner, Adaptability\n\uf0b7 Languages : English, Hindi, Gujarati, Marathi\nCERTIFICATIONS\n\uf0b7 Introduction To Data science | By Cisco (View Certificate)\n\uf0b7 Python for Data Science | By IBM (View Certificate)\n\uf0b7 Data Science Bootcamp | By Udemy (View Certificate)\nACHIEVEMENTS\n\uf0b7 Presented on \"Harnessing NLP with AI\" at the International Conference on Artificial Intelligence, March 2024.",
+    "resume_uploaded": true,
+    "star_mode": false
+  }
+}
