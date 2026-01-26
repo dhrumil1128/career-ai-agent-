@@ -118,7 +118,7 @@ async def chat_endpoint(user_input: str = Form(...)):
         
         # 1. Greetings
         if text in ["hi", "hello", "hey", "greetings"]:
-            response = "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?"
+            response = " Hello! I'm your Career AI Assistant. How can I help with your career today?"
         
         # 2. STAR Mode
         elif star_mode:
@@ -128,7 +128,7 @@ async def chat_endpoint(user_input: str = Form(...)):
         # 3. Activate STAR mode
         elif "star" in text or "behavioral" in text or "interview story" in text:
             set_star_mode("default", True)
-            response = "📝 I'll help you create a STAR interview answer. Please describe your experience or situation."
+            response = " I'll help you create a STAR interview answer. Please describe your experience or situation."
         
         # 4. Resume-based questions
         elif any(keyword in text for keyword in ["based on my resume", "from my resume", "my resume", "according to my resume"]):
@@ -139,7 +139,7 @@ async def chat_endpoint(user_input: str = Form(...)):
                     # Search jobs based on resume skills
                     jobs = search_jobs_by_skills(resume_text, "Software Engineer")
                     if jobs:
-                        response = "🔍 **Jobs matching your resume:**\n\n" + "\n\n".join(jobs[:3])
+                        response = " **Jobs matching your resume:**\n\n" + "\n\n".join(jobs[:3])
                     else:
                         response = "No matching jobs found. Try uploading your resume first."
                 elif "improve" in text or "feedback" in text or "better" in text:
@@ -155,11 +155,11 @@ async def chat_endpoint(user_input: str = Form(...)):
             if resume_uploaded and ("suitable" in text or "for me" in text or "matching" in text or "fit" in text):
                 # Personalized job search
                 jobs = search_jobs_by_skills(resume_text, "Software Engineer")
-                response = "🎯 **Jobs matching your profile:**\n\n" + "\n\n".join(jobs) if jobs else "No matching jobs found."
+                response = " **Jobs matching your profile:**\n\n" + "\n\n".join(jobs) if jobs else "No matching jobs found."
             else:
                 # General job search
                 jobs = search_jobs(user_input)
-                response = "💼 **Job Opportunities:**\n\n" + "\n\n".join(jobs) if jobs else "No jobs found. Try: 'python developer' or 'backend engineer'"
+                response = " **Job Opportunities:**\n\n" + "\n\n".join(jobs) if jobs else "No jobs found. Try: 'python developer' or 'backend engineer'"
         
         # 6. Default LLM response
         else:
@@ -190,7 +190,7 @@ async def upload_resume(file: UploadFile = File(...)):
     Example: POST /api/upload-resume with file in form data
     """
     try:
-        print(f"📤 Resume upload: {file.filename}")
+        print(f" Resume upload: {file.filename}")
         
         # Create temp file
         with tempfile.NamedTemporaryFile(delete=False, suffix=os.path.splitext(file.filename)[1]) as tmp:
@@ -212,7 +212,7 @@ async def upload_resume(file: UploadFile = File(...)):
         
         return JSONResponse({
             "success": True,
-            "message": f"✅ Resume '{file.filename}' uploaded successfully!",
+            "message": f" Resume '{file.filename}' uploaded successfully!",
             "details": f"Extracted {len(resume_text)} characters",
             "filename": file.filename,
             "has_resume": True
