@@ -502,9 +502,12 @@ async def health_check():
 
 if __name__ == "__main__":
     import uvicorn
+    import os
+
+    port = int(os.environ.get("PORT", 8000))
     
-    print("🚀 Starting Career AI Agent API...")
-    print("📡 Endpoints:")
+    print(" Starting Career AI Agent API...")
+    print(" Endpoints:")
     print("  - POST /api/chat           - Chat with AI")
     print("  - POST /api/upload-resume  - Upload resume")
     print("  - POST /api/analyze-match  - Match percentage")
@@ -512,11 +515,11 @@ if __name__ == "__main__":
     print("  - GET  /api/alternative-roles - Alternative roles")
     print("  - POST /api/heatmap        - Resume heatmap")
     print("  - GET  /api/health         - Health check")
-    print("\n✅ Server running on http://localhost:8000")
+    print("\n Server running on http://localhost:8000")
     
     uvicorn.run(
-        app, 
+        "app:app" 
         host="0.0.0.0", 
-        port=8000,
-        reload=True  # Auto-reload on code changes
+        port=port,
+        
     )
