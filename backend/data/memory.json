@@ -1,0 +1,377 @@
+{
+  "resume": "Resume file: C:\\Users\\DHRUMIL\\AppData\\Local\\Temp\\gradio\\49e1336bb0a301737faec75c88677847c18c98a67e804b4cff24f4a5af6d6fbe\\Dhrumil-Pawar-Resume.pdf",
+  "history": [
+    {
+      "user": "Give me the Jobs whihc is most relavant and best fit  based on my resume ",
+      "assistant": "Your resume is already uploaded. I can analyze it for you."
+    }
+  ],
+  "resume_file": "C:\\Users\\DHRUMIL\\AppData\\Local\\Temp\\gradio\\49e1336bb0a301737faec75c88677847c18c98a67e804b4cff24f4a5af6d6fbe\\Dhrumil-Pawar-Resume.pdf",
+  "default": {
+    "history": [
+      {
+        "time": "2026-01-22T13:20:20.610020",
+        "user": "find the python developer jobs in india fro fresher level",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T13:20:20.610031",
+        "assistant": "💼 **Job Opportunities:**\n\nNo job listings found on GitHub Jobs.\nTry searching for:\n• 'python developer'\n• 'backend engineer'\n• 'frontend developer'\n• 'data scientist'\n• 'devops engineer'\n\nGitHub Jobs has real tech positions from companies using GitHub.",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-22T13:22:07.083267",
+        "user": "Give me the list of jobs which best fit based on my resume .",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T13:22:38.209346",
+        "user": "Give me the list of jobs which best fit based on my resume .",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T13:22:38.209356",
+        "assistant": "🔍 **Jobs matching your resume:**\n\nNo job listings found on GitHub Jobs.\nTry searching for:\n• 'python developer'\n• 'backend engineer'\n• 'frontend developer'\n• 'data scientist'\n• 'devops engineer'\n\nGitHub Jobs has real tech positions from companies using GitHub.",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-22T14:23:44.280571",
+        "user": "Find jobs based on my resume",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:23:45.676900",
+        "user": "Find jobs based on my resume",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:23:45.676906",
+        "assistant": "🔍 **Jobs matching your resume:**\n\n**Python Developer**\n🏢 Capgemini\n📍 Sion, Maharashtra, India\n📋 Sion, Maharashtra, India\n          \n\n\n\n          Actively Hiring\n \n\n\n            \n\n    \n    \n    \n  \n🔗 #\n---\n\n**Python Developer**\n🏢 Infosys\n📍 Bengaluru East, Karnataka, India\n📋 Bengaluru East, Karnataka, India\n          \n\n\n\n          Actively Hiring\n \n\n\n            \n\n    \n    \n🔗 #\n---\n\n**Python Developer**\n🏢 TipTopJob\n📍 London, England, United Kingdom\n📋 London, England, United Kingdom\n          \n\n\n\n ",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-22T14:36:36.960002",
+        "user": "Find jobs matching my resume",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:36:38.447207",
+        "user": "Find jobs matching my resume",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:36:38.447212",
+        "assistant": "🔍 **Jobs matching your resume:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** Link not available\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** Link not available\n---\n\n**Python Developer**\n**Company:** TipTopJob\n**Location:** London, England, United Kingdom\n**Description:** Be an early applicant 13 ",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-22T14:41:04.571872",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:41:05.922100",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:41:05.922107",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Capgemini\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Infosys\n---\n\n**Python Developer**\n**Company:*",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-22T14:47:51.270821",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:47:52.629847",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-22T14:47:52.629853",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Capgemini\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Infosys\n---\n\n**Python Developer**\n**Company:*",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T17:04:34.229995",
+        "user": "give me the python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T17:04:35.591398",
+        "user": "give me the python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T17:04:35.591405",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 16 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Back",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T17:12:50.787000",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T17:12:52.702602",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T17:12:52.702607",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:31:29.517027",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:31:31.334595",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:31:31.334611",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:32:51.140554",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:32:52.606585",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:32:52.606590",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:36:10.400220",
+        "user": "Machine Learning Internshios jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:36:11.429783",
+        "user": "Machine Learning Internshios jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:36:11.429791",
+        "assistant": "💼 **Job Opportunities:**\n\n**Search Machine Learning Internshios jobs on LinkedIn**\n**Company:** LinkedIn\n**Location:** Worldwide\n**Description:** Click to search real jobs on LinkedIn\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Internshios\n---",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:39:00.735672",
+        "user": "Meranstack Developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:39:02.100680",
+        "user": "Meranstack Developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:39:02.100688",
+        "assistant": "💼 **Job Opportunities:**\n\n**Pessoa Desenvolvedora low-code para Agentes de IA**\n**Company:** Timenow\n**Location:** Vitória, Espírito Santo, Brazil\n**Description:** Be an early applicant 20 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Pessoa%20Desenvolvedora%20low-code%20para%20Agentes%20de%20IA%20Timenow\n---\n\n**Developer**\n**Company:** SAP\n**Location:** Pune, Maharashtra, India\n**Description:** Actively Hiring 4 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?ke",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:44:52.984311",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:44:54.238022",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:44:54.238028",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:48:07.499396",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:48:07.590251",
+        "user": "python developer jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:48:07.590256",
+        "assistant": "💼 **Job Opportunities:**\n\n**Search python developer jobs on LinkedIn**\n**Company:** LinkedIn\n**Location:** Worldwide\n**Description:** Click to search real jobs on LinkedIn\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=python%20developer\n---",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-23T18:48:39.580798",
+        "user": "Python developer Jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:48:41.017465",
+        "user": "Python developer Jobs",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-23T18:48:41.017472",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 18 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Back",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-26T14:46:44.226804",
+        "user": "Hello",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-26T14:46:44.322033",
+        "user": "Hello",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-26T14:46:44.322042",
+        "assistant": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+        "type": "assistant_response"
+      },
+      {
+        "time": "2026-01-26T14:47:40.340732",
+        "user": "hello",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-26T14:47:40.476689",
+        "user": "hello",
+        "type": "user_input"
+      },
+      {
+        "time": "2026-01-26T14:47:40.476699",
+        "assistant": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+        "type": "assistant_response"
+      }
+    ],
+    "conversation_pairs": [
+      {
+        "user": "Hello",
+        "assistant": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+        "timestamp": "2026-01-22T13:17:55.525780"
+      },
+      {
+        "user": "What are my skills based on my resume?",
+        "assistant": "Based on your resume, your skills include:\n\n*   **Programming Languages:** Python\n*   **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib\n*   **Machine Learning:** K-Means Clustering, ML Classification, Statistical Feature Engineering\n*   **Data Processing:** Data Cleaning, Anomaly Handling, Data Integrity, Resampling\n*   **Data Analysis:** Consumption Pattern Analysis, Summary Analytics\n*   **Development:** Data Pipeline Development",
+        "timestamp": "2026-01-22T13:18:47.022890"
+      },
+      {
+        "user": "Find jobs that match my resume",
+        "assistant": "🔍 **Jobs matching your resume:**\n\nNo job listings found on GitHub Jobs.\nTry searching for:\n• 'python developer'\n• 'backend engineer'\n• 'frontend developer'\n• 'data scientist'\n• 'devops engineer'\n\nGitHub Jobs has real tech positions from companies using GitHub.",
+        "timestamp": "2026-01-22T13:19:29.715575"
+      },
+      {
+        "user": "find the python developer jobs in india fro fresher level",
+        "assistant": "💼 **Job Opportunities:**\n\nNo job listings found on GitHub Jobs.\nTry searching for:\n• 'python developer'\n• 'backend engineer'\n• 'frontend developer'\n• 'data scientist'\n• 'devops engineer'\n\nGitHub Jobs has real tech positions from companies using GitHub.",
+        "timestamp": "2026-01-22T13:20:20.610043"
+      },
+      {
+        "user": "Give me the list of jobs which best fit based on my resume .",
+        "assistant": "🔍 **Jobs matching your resume:**\n\nNo job listings found on GitHub Jobs.\nTry searching for:\n• 'python developer'\n• 'backend engineer'\n• 'frontend developer'\n• 'data scientist'\n• 'devops engineer'\n\nGitHub Jobs has real tech positions from companies using GitHub.",
+        "timestamp": "2026-01-22T13:22:38.209366"
+      },
+      {
+        "user": "Find jobs based on my resume",
+        "assistant": "🔍 **Jobs matching your resume:**\n\n**Python Developer**\n🏢 Capgemini\n📍 Sion, Maharashtra, India\n📋 Sion, Maharashtra, India\n          \n\n\n\n          Actively Hiring\n \n\n\n            \n\n    \n    \n    \n  \n🔗 #\n---\n\n**Python Developer**\n🏢 Infosys\n📍 Bengaluru East, Karnataka, India\n📋 Bengaluru East, Karnataka, India\n          \n\n\n\n          Actively Hiring\n \n\n\n            \n\n    \n    \n🔗 #\n---\n\n**Python Developer**\n🏢 TipTopJob\n📍 London, England, United Kingdom\n📋 London, England, United Kingdom\n          \n\n\n\n          Be an early applicant\n \n\n\n            \n\n    \n🔗 #\n---",
+        "timestamp": "2026-01-22T14:23:45.676912"
+      },
+      {
+        "user": "Find jobs matching my resume",
+        "assistant": "🔍 **Jobs matching your resume:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** Link not available\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** Link not available\n---\n\n**Python Developer**\n**Company:** TipTopJob\n**Location:** London, England, United Kingdom\n**Description:** Be an early applicant 13 hours ago\n**Apply:** Link not available\n---",
+        "timestamp": "2026-01-22T14:36:38.447217"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Capgemini\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Infosys\n---\n\n**Python Developer**\n**Company:** TipTopJob\n**Location:** London, England, United Kingdom\n**Description:** Be an early applicant 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+TipTopJob\n---\n\n**Python Developer**\n**Company:** Open Systems Technologies\n**Location:** New York, NY\n**Description:** Actively Hiring 4 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Open+Systems+Technologies\n---\n\n**Python ML Engineer**\n**Company:** Infosys\n**Location:** Beng",
+        "timestamp": "2026-01-22T14:41:05.922113"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** Capgemini\n**Location:** Sion, Maharashtra, India\n**Description:** Actively Hiring 22 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Capgemini\n---\n\n**Python Developer**\n**Company:** Infosys\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Infosys\n---\n\n**Python Developer**\n**Company:** Open Systems Technologies\n**Location:** New York, NY\n**Description:** Actively Hiring 4 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+Open+Systems+Technologies\n---\n\n**Python Developer**\n**Company:** TipTopJob\n**Location:** London, England, United Kingdom\n**Description:** Be an early applicant 13 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python+Developer+TipTopJob\n---\n\n**Python ML Engineer**\n**Company:** Infosys\n**Location:** Beng",
+        "timestamp": "2026-01-22T14:47:52.629860"
+      },
+      {
+        "user": "give me the python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 16 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Software Engineer III, Full Stack, Ads**\n**Company:** Google\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 19 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer%20III,%20Full%20Stack,%20Ads%20Google\n---\n\n**Back End Developer**\n**Company:** HDFC securities\n**Location:** Mumbai, Maharashtra, India\n**Description:** Actively Hiring 12 hours ago\n**Apply:** https://www.linkedin.com",
+        "timestamp": "2026-01-23T17:04:35.591416"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20E-Solutions\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 16 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Associate**\n**Company:** PwC India\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 5 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Associate%20PwC%20India\n---\n\n**Back",
+        "timestamp": "2026-01-23T17:12:52.702614"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20E-Solutions\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 18 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Associate**\n**Company:** PwC India\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Associate%20PwC%20India\n---\n\n**Back",
+        "timestamp": "2026-01-23T18:31:31.334644"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20E-Solutions\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 18 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Associate**\n**Company:** PwC India\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 6 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Associate%20PwC%20India\n---\n\n**Back",
+        "timestamp": "2026-01-23T18:32:52.606596"
+      },
+      {
+        "user": "Machine Learning Internshios jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Search Machine Learning Internshios jobs on LinkedIn**\n**Company:** LinkedIn\n**Location:** Worldwide\n**Description:** Click to search real jobs on LinkedIn\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Machine%20Learning%20Internshios\n---",
+        "timestamp": "2026-01-23T18:36:11.429801"
+      },
+      {
+        "user": "Meranstack Developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Pessoa Desenvolvedora low-code para Agentes de IA**\n**Company:** Timenow\n**Location:** Vitória, Espírito Santo, Brazil\n**Description:** Be an early applicant 20 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Pessoa%20Desenvolvedora%20low-code%20para%20Agentes%20de%20IA%20Timenow\n---\n\n**Developer**\n**Company:** SAP\n**Location:** Pune, Maharashtra, India\n**Description:** Actively Hiring 4 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Developer%20SAP\n---\n\n**Programmer/Developer**\n**Company:** nLeague\n**Location:** Nashville, TN\n**Description:** 22 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Programmer/Developer%20nLeague\n---\n\n**Senior Developer**\n**Company:** AD Ports Group\n**Location:** Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates\n**Description:** Actively Hiring 12 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Senior%20Developer%20AD%20Ports%20Group\n---\n\n**applicati",
+        "timestamp": "2026-01-23T18:39:02.100701"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20E-Solutions\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 18 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Associate**\n**Company:** PwC India\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Associate%20PwC%20India\n---\n\n**Back",
+        "timestamp": "2026-01-23T18:44:54.238037"
+      },
+      {
+        "user": "python developer jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Search python developer jobs on LinkedIn**\n**Company:** LinkedIn\n**Location:** Worldwide\n**Description:** Click to search real jobs on LinkedIn\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=python%20developer\n---",
+        "timestamp": "2026-01-23T18:48:07.590261"
+      },
+      {
+        "user": "Python developer Jobs",
+        "assistant": "💼 **Job Opportunities:**\n\n**Python Developer**\n**Company:** NTT DATA North America\n**Location:** Bengaluru East, Karnataka, India\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20NTT%20DATA%20North%20America\n---\n\n**Backend Developer - Python/Node.js**\n**Company:** Codeyoung\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 18 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Backend%20Developer%20-%20Python/Node.js%20Codeyoung\n---\n\n**Python Developer**\n**Company:** E-Solutions\n**Location:** London Area, United Kingdom\n**Description:** Actively Hiring 8 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Python%20Developer%20E-Solutions\n---\n\n**Associate**\n**Company:** PwC India\n**Location:** Bengaluru, Karnataka, India\n**Description:** Actively Hiring 7 hours ago\n**Apply:** https://www.linkedin.com/jobs/search/?keywords=Associate%20PwC%20India\n---\n\n**Back",
+        "timestamp": "2026-01-23T18:48:41.017480"
+      },
+      {
+        "user": "Hello",
+        "assistant": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+        "timestamp": "2026-01-26T14:46:44.322093"
+      },
+      {
+        "user": "hello",
+        "assistant": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+        "timestamp": "2026-01-26T14:47:40.476708"
+      }
+    ],
+    "resume_text": "Dhrumil Pawar\nVadodara, Gujarat, India | dhrumilpawar2910@gmail.com | +91-9904191054 | GitHub | LinkedIn\nEDUCATION\nITM (SLS) Baroda University Vadodara, India\nB. Tech in Computer Science Engineering Aug 2021- April 2025\n CGPA: 8.07\nWORK EXPERIENCE\nMaxlink IT Solutions (Remote) | Vadodara, India\nPython Intern | Dec 2023 – March 2024\n Built an automated WaterClassify algorithm to categorize real-time water consumption using K-Means\nclustering and engineered statistical features.\n Conducted minute-level resampling, data cleaning, and anomaly handling, improving data integrity for ML\nclassification.\n Designed event-level features (duration, flow rate, volume), enabling accurate consumption pattern analysis.\n Produced category-wise summary analytics for stakeholders to track high-usage events and abnormal patterns.\n Utilized Python, Pandas, NumPy, Scikit-learn, Matplotlib to develop the end-to-end data pipeline.\nPROJECTS\nTravel Planner AI Agent\nMajor Project\n Technologies: Python, Streamlit, LangGraph, Gemini Pro API, REST APIs (Unsplash, Travel Advisor)\n Features: Constructed an AI travel planner employing Gemini Pro and LangGraph to generate personalized, multi-\nstep itineraries with external API suggestions, achieving a 90% user satisfaction rating based on user feedback.\n Impact: Delivers smart, user-friendly trip planning using AI agent workflows and prompt engineering.\n Click Here : GitHub Repo | Live Demo\nEnd-to-End File QA Chatbot (RAG)\nMajor Project\n Technologies: Python, Streamlit, LangChain, Google Gemini 2.5 Flash, ChromaDB, PyMuPDF\n Features: Built a production-ready QA chatbot using Retrieval-Augmented Generation (RAG), allowing users\nto upload PDFs and ask natural language questions with real-time source citations.\n Impact: Showcased deep understanding of LLMs, embeddings, vector search, and prompt engineering, solving\na real-world problem in document intelligence and knowledge management.\n Click Here : GitHub Repo | Demo Video\nSKILLS\n Programming Languages: Python3, SQL\n Data Engineering: ETL/ELT Pipelines, Data Cleaning, Feature Engineering, Data Validation, Time-Series\nResampling, Orchestration (n8n)\n Data Science & ML: Pandas, Scikit-learn, NLP, Data Visualization(Power BI), AWS\n Data Modeling Concepts: Data Warehouse basics, Data Lakes, Lakehouse Concepts (Delta)\n Core CS Concepts: Operating Systems, Networking, Data Structures, Algorithms, UML\n SCM & DevOps Tools: Git (Github), Docker\n Soft Skills: Leadership, Quick Learner, Adaptability\n Languages : English, Hindi, Gujarati, Marathi\nCERTIFICATIONS\n Introduction To Data science | By Cisco (View Certificate)\n Python for Data Science | By IBM (View Certificate)\n Data Science Bootcamp | By Udemy (View Certificate)\nACHIEVEMENTS\n Presented on \"Harnessing NLP with AI\" at the International Conference on Artificial Intelligence, March 2024.\n",
+    "resume_uploaded": true,
+    "resume_file": "Dhrumil-Pawar-Resume.pdf",
+    "star_mode": false,
+    "last_response": "👋 Hello! I'm your Career AI Assistant. How can I help with your career today?",
+    "interview": {
+      "index": 0,
+      "answers": [],
+      "started_at": null
+    },
+    "updated_at": "2026-01-26T14:47:40.477380"
+  }
+}
